@@ -22,4 +22,4 @@ O APK será gerado em `app/build/outputs/apk/debug/app-debug.apk`.
 
 ## Conteúdo e direitos
 
-O banco de exercícios e algumas figuras são provenientes do material MSA. Antes de publicar este repositório ou redistribuir o APK, confirme que você possui autorização para publicar esse conteúdo.
+O banco de exercícios e algumas figuras são provenientes do material MSA. O responsável pelo repositório confirmou possuir autorização para publicar e redistribuir esse conteúdo.
